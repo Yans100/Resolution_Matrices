@@ -39,7 +39,7 @@ Les matrices sont définies directement dans `Program.cs` — modifier les valeu
 ```
 Program.cs   — point d'entrée et menu interactif
 System.cs    — résolution Cramer, Gauss, inverse
-Matrix2D.cs  — opérations matricielles (déterminant, inverse, transposée...)
+Matrix.cs    — opérations matricielles (déterminant, inverse, transposée...)
 ```
 
 ---
